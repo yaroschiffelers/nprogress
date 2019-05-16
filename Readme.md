@@ -10,6 +10,9 @@ NProgress
 Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and
 Medium.
 
+**Note about this fork: it contains the original and a modified vertical version.**
+**User ```nprogress.css``` for the regular version and ```nprogress-vertical.css``` for the vertical version**
+
 Installation
 ------------
 
